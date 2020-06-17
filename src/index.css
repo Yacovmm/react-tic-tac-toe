@@ -31,6 +31,10 @@ body {
     text-align: center;
     width: 34px;
   }
+
+  .square.highlight {
+    background: red
+  }
   
   .square:focus {
     outline: none;
@@ -49,3 +53,4 @@ body {
     margin-left: 20px;
   }
   
+ 
